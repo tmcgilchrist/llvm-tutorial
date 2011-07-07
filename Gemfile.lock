@@ -1,0 +1,20 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    blankslate (2.1.2.4)
+    ffi (1.0.9)
+    parslet (1.2.1)
+      blankslate (~> 2.0)
+    polyglot (0.3.1)
+    ruby-llvm (2.9.1)
+      ffi (>= 1.0.0)
+    treetop (1.4.9)
+      polyglot (>= 0.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  parslet
+  ruby-llvm
+  treetop
