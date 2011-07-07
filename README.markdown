@@ -11,7 +11,9 @@ decided to write something in Ruby instead.
 4. Run rake -T to see your options.
 
 # Credits
+
 Inspired by
+
 1. [LLVM] (http://llvm.org)
 2. [ruby-llvm] (http://github.com/jvoorhis/ruby-llvm) and
 3. various tiny language interpretors and compilers from around the net.
