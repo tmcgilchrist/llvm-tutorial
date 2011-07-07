@@ -11,10 +11,10 @@ decided to write something in Ruby instead.
 4. Run rake -T to see your options.
 
 # Credits
-Inspired by:
-* [LLVM] (http://llvm.org)
-* [ruby-llvm] (http://github.com/jvoorhis/ruby-llvm) and
-* various tiny language interpretors and compilers from around the net.
+Inspired by
+1. [LLVM] (http://llvm.org)
+2. [ruby-llvm] (http://github.com/jvoorhis/ruby-llvm) and
+3. various tiny language interpretors and compilers from around the net.
 
 # Notes
 On OSX you may need to set LD_LIBRARY_PATH so you can find the LLVM
