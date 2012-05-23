@@ -13,6 +13,7 @@ decided to write something in Ruby instead.
 # Credits
 
 Inspired by
+
 1. [LLVM] (http://llvm.org)
 2. [ruby-llvm] (http://github.com/jvoorhis/ruby-llvm) and
 3. various tiny language interpretors and compilers from around the net.
